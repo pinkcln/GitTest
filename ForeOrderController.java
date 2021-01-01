@@ -110,7 +110,7 @@ public class ForeOrderController extends BaseController {
 
 
 
-
+	add fun3
     //转到前台Mall-购物车页
     @RequestMapping(value = "cart",method = RequestMethod.GET)
     public String goToCartPage(Map<String,Object> map,HttpSession session){
